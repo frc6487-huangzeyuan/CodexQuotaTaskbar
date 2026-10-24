@@ -1,0 +1,5 @@
+work/
+data/
+codex-path.txt
+*.exe
+*.pdb
